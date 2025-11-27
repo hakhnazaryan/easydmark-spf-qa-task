@@ -8,7 +8,7 @@ Both manual and automated coverage focus on the most critical behaviors of the S
 ---
 
 ## Project Structure
-
+<pre>
 Easydmarc/
 │
 ├── cypress/
@@ -21,7 +21,7 @@ Easydmarc/
 ├── package.json
 ├── README.md
 └── Manual_Test_Cases.pdf
-
+</pre>
 ---
 
 ## Automated Test Cases (Cypress + TypeScript)
